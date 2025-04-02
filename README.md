@@ -4,8 +4,8 @@ Este proyecto compara el rendimiento en CPU de dos equipos Apple ejecutando benc
 
 ## 💻 Equipos evaluados
 
-- **Mac Pro 2013** – 12 núcleos Intel Xeon E5 @ 2.7GHz
-- **Mac M2** – 8+4 núcleos Apple Silicon (alta eficiencia y alto rendimiento)
+- **Mac Pro 2013** – 12 núcleos Intel Xeon E5 @ 2.7GHz, macOS Monterey 12.7.6
+- **Mac M2** – 8+4 núcleos Apple Silicon (alta eficiencia y alto rendimiento), macOS Sequoia 15.3.2
 
 ## ⚙️ Herramientas usadas
 
