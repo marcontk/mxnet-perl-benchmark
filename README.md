@@ -14,7 +14,7 @@ Este proyecto compara el rendimiento en CPU de dos equipos Apple ejecutando benc
 - Parallel::ForkManager
 - MXNet compilado localmente
 - Gnuplot para visualización
-- Python (solo para graficar)
+- Chart::Plotly
 
 ## 📊 Resultados
 
@@ -33,7 +33,7 @@ Los benchmarks muestran cómo escalan ambos equipos al ejecutar multiplicaciones
 - `benchmark_parallel_auto.pl`: script Perl para benchmark con `fork`
 - `benchmark_results_MacPro.csv` y `benchmark_results_M2.csv`: resultados crudos
 - `benchmark.gnuplot` y `benchmark_speedup.gnuplot`: scripts Gnuplot
-- `plot_mxnet_benchmark_comparison.py`: script en Python para comparar gráficos
+- `plot_mxnet_benchmark_comparison.ipynb`: notebook para comparar gráficos
 
 ## 📓 Datos destacados
 
