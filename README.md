@@ -1,6 +1,3 @@
-# mxnet-perl-benchmark
-Benchmark en Perl usando MXNet para comparar el rendimiento de CPU entre un Mac Pro 2013 (Xeon) y un Mac M2, con ejecución paralela de operaciones matriciales.
-
 # MXNet Benchmark en Perl: Mac Pro 2013 vs Mac M2
 
 Este proyecto compara el rendimiento en CPU de dos equipos Apple ejecutando benchmarks paralelos usando `AI::MXNet` en Perl.
